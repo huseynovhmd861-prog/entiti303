@@ -1,0 +1,8 @@
+[{
+  "modid": "entity303",
+  "name": "Entity 303",
+  "description": "Entity 303 boss mob with red eye lasers.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "authorList": ["you"]
+}]
